@@ -4,7 +4,7 @@ def get_cs_words(tr_words, cs_words):
 	l = []
 	for t in tr_words:
 		if t in cs_words:
-			l.append(a)
+			l.append(a1)
 	return l
 
 # removing all special characters except spaces
